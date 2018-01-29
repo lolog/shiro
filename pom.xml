@@ -11,6 +11,7 @@
 		<module>jdbc-realm</module>
 		<module>auth</module>
 		<module>web</module>
+		<module>realm-customizing</module>
 	</modules>
 
 	<dependencyManagement>
